@@ -21,6 +21,6 @@
 <h1>Application One</h1>
 <p>Enter a date below:</p>
 <input dojoType="dijit.form.DateTextBox"/>
-
+<input type="text" name="name">
 </body>
 </html>
